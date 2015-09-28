@@ -1,3 +1,5 @@
+*.gem
+.DS_Store
 /.bundle/
 /.yardoc
 /Gemfile.lock
@@ -7,3 +9,6 @@
 /pkg/
 /spec/reports/
 /tmp/
+/.gemtags
+/.tags
+/.tags_sorted_by_file
